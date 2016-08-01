@@ -1,0 +1,12 @@
+test code for notifier chain
+
+chain_0.c:
+    - Define chain variable
+    - Define register and call interfaces
+
+chain_1.c:
+    - define the callback function
+    - Test code for register interface
+
+chain_2.c:
+    - Test code for call
